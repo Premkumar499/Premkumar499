@@ -67,26 +67,6 @@ I enjoy building AI-powered applications, experimenting with machine learning mo
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎙️ AI Deepfake Voice Detection
-A machine learning application designed to distinguish AI-generated audio from human speech, with a focus on multilingual audio detection.
-
-**Tech:** Python, PyTorch, Wav2Vec2, Audio Processing
-
-🔗 [View Live Project](https://deepfake-flame.vercel.app/)
-
-### 🤖 RAG-Based AI Chatbot
-An AI chatbot designed to retrieve relevant information and generate context-aware responses using retrieval-augmented generation.
-
-**Tech:** Python, Flask, LangChain, FAISS, Gemini API
-
-### 📝 AI-Based Student Answer Re-evaluation
-An AI-assisted system designed to analyze student answers, compare semantic meaning against expected answers, and suggest potential marking discrepancies for human review.
-
-**Tech:** Python, Flask, OCR, NLP, Generative AI
-
----
 
 ## 📊 GitHub Statistics
 
