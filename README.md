@@ -96,6 +96,4 @@ I enjoy building AI-powered applications, experimenting with machine learning mo
 
 ### 💡 Turning ideas into intelligent solutions.
 
-![Profile Views](https://komarev.com/ghpvc/?username=Premkumar499&style=for-the-badge&color=blueviolet)
-
 </div>
